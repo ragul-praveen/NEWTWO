@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+IQKeyboardManager in Pods
+SkyFloatingLabelTextField in Pods
+Pods-NEWTWO in Pods, depends on:
+IQKeyboardManager in Pods (explicit)
+SkyFloatingLabelTextField in Pods (explicit)
+NEWTWO in NEWTWO, depends on:
+Pods-NEWTWO in Pods (implicit dependency via file 'Pods_NEWTWO.framework' in build phase 'Link Binary'
+IQKeyboardManager in Pods (implicit dependency via options '-framework IQKeyboardManager' in build setting 'OTHER_LDFLAGS'
+SkyFloatingLabelTextField in Pods (implicit dependency via options '-framework SkyFloatingLabelTextField' in build setting 'OTHER_LDFLAGS'

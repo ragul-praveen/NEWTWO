@@ -1,0 +1,78 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "0b34fa36708fec22a5bd3af3cc4f78def1bea831903657a138d233a4dbde2fc7"
+    },
+    {
+      "guid" : "0b34fa36708fec22a5bd3af3cc4f78dedbc13e2934142ab7cc41b50003355554"
+    },
+    {
+      "guid" : "0b34fa36708fec22a5bd3af3cc4f78de5910dbf7c21af04460691e62425cacc0"
+    },
+    {
+      "guid" : "bd578b544203e0c8de025b18bd00bc90810951796d112b754e8d560b51957d79"
+    },
+    {
+      "guid" : "bd578b544203e0c8de025b18bd00bc90b74ad4f0cfacf993ee079a648a7866e6"
+    },
+    {
+      "guid" : "bd578b544203e0c8de025b18bd00bc903b3e6973537babe8577b45d9964e956d"
+    },
+    {
+      "guid" : "bd578b544203e0c8de025b18bd00bc901bf710bb5e401bc3b4f9d5b07c0e3f34"
+    },
+    {
+      "guid" : "bd578b544203e0c8de025b18bd00bc90ab1260c4860a4aa84cbeb1d41490a057"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/srikanthvemana/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/srikanthvemana/Library/Developer/Xcode/DerivedData/NEWTWO-brbbbvskufhqqafskyhhcunqjqjb/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/srikanthvemana/Library/Developer/Xcode/DerivedData/NEWTWO-brbbbvskufhqqafskyhhcunqjqjb/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "0F7B0F0C-C3A4-43D2-8F36-DA52C9FC0EF4",
+          "TARGET_DEVICE_MODEL" : "iPhone12,3",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

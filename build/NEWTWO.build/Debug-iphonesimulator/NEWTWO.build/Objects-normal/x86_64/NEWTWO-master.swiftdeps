@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "712dcfa7a8d8d6260b3526d9a1d9d3f5"
+build_time: [1635259225, 579569000]
+inputs:
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/MenuViewControllerOne.swift": [1635259225, 430998541]
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/CategoryCollectionViewCell.swift": [1635235063, 650632674]
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/secondTableViewCell.swift": [1635241720, 47890785]
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/RegisterViewController.swift": [1635258614, 640445040]
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/ViewController.swift": [1635242369, 921796938]
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/MenuSideTableViewCell.swift": [1621254686, 7278486]
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/AppDelegate.swift": [1635256545, 248090886]
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/BaseViewController.swift": [1588158328, 0]
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/secondViewController.swift": [1635242335, 566357582]
+  "/Users/srikanthvemana/Desktop/NEWTWO/NEWTWO/SceneDelegate.swift": [1635231988, 800021450]

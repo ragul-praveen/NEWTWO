@@ -1,0 +1,25 @@
+Target dependency graph (8 targets)
+IQKeyboardManager in Pods
+SkyFloatingLabelTextField in Pods
+Pods-NEWTWO in Pods, depends on:
+IQKeyboardManager in Pods (explicit)
+SkyFloatingLabelTextField in Pods (explicit)
+NEWTWO in NEWTWO, depends on:
+Pods-NEWTWO in Pods (implicit dependency via file 'Pods_NEWTWO.framework' in build phase 'Link Binary'
+IQKeyboardManager in Pods (implicit dependency via options '-framework IQKeyboardManager' in build setting 'OTHER_LDFLAGS'
+SkyFloatingLabelTextField in Pods (implicit dependency via options '-framework SkyFloatingLabelTextField' in build setting 'OTHER_LDFLAGS'
+Pods-NEWTWOTests in Pods, depends on:
+Pods-NEWTWO in Pods (explicit)
+NEWTWOTests in NEWTWO, depends on:
+NEWTWO in NEWTWO (explicit)
+Pods-NEWTWOTests in Pods (implicit dependency via file 'Pods_NEWTWOTests.framework' in build phase 'Link Binary'
+IQKeyboardManager in Pods (implicit dependency via options '-framework IQKeyboardManager' in build setting 'OTHER_LDFLAGS'
+SkyFloatingLabelTextField in Pods (implicit dependency via options '-framework SkyFloatingLabelTextField' in build setting 'OTHER_LDFLAGS'
+Pods-NEWTWO-NEWTWOUITests in Pods, depends on:
+IQKeyboardManager in Pods (explicit)
+SkyFloatingLabelTextField in Pods (explicit)
+NEWTWOUITests in NEWTWO, depends on:
+NEWTWO in NEWTWO (explicit)
+Pods-NEWTWO-NEWTWOUITests in Pods (implicit dependency via file 'Pods_NEWTWO_NEWTWOUITests.framework' in build phase 'Link Binary'
+IQKeyboardManager in Pods (implicit dependency via options '-framework IQKeyboardManager' in build setting 'OTHER_LDFLAGS'
+SkyFloatingLabelTextField in Pods (implicit dependency via options '-framework SkyFloatingLabelTextField' in build setting 'OTHER_LDFLAGS'

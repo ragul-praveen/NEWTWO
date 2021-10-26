@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "d6dc5713d528bef45e425a8f705f0be3"
+build_time: [1635258673, 415926000]
+inputs:
+  "/Users/srikanthvemana/Desktop/NEWTWO/Pods/SkyFloatingLabelTextField/Sources/SkyFloatingLabelTextField.swift": [1635254976, 951921234]
+  "/Users/srikanthvemana/Desktop/NEWTWO/Pods/SkyFloatingLabelTextField/Sources/SkyFloatingLabelTextFieldWithIcon.swift": [1635254976, 952713978]
+  "/Users/srikanthvemana/Desktop/NEWTWO/Pods/SkyFloatingLabelTextField/Sources/UITextField+fixCaretPosition.swift": [1635254976, 952307726]
